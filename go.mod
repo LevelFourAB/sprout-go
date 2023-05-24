@@ -12,7 +12,7 @@ require (
 	github.com/onsi/gomega v1.27.7
 	github.com/thessem/zap-prettyconsole v0.3.0
 	go.opentelemetry.io/contrib/instrumentation/runtime v0.42.0
-	go.opentelemetry.io/contrib/propagators/autoprop v0.41.1
+	go.opentelemetry.io/contrib/propagators/autoprop v0.42.0
 	go.opentelemetry.io/otel v1.16.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v0.39.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.16.0
@@ -43,10 +43,10 @@ require (
 	github.com/opencontainers/runtime-spec v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	go.opentelemetry.io/contrib/propagators/aws v1.16.1 // indirect
-	go.opentelemetry.io/contrib/propagators/b3 v1.16.1 // indirect
-	go.opentelemetry.io/contrib/propagators/jaeger v1.16.1 // indirect
-	go.opentelemetry.io/contrib/propagators/ot v1.16.1 // indirect
+	go.opentelemetry.io/contrib/propagators/aws v1.17.0 // indirect
+	go.opentelemetry.io/contrib/propagators/b3 v1.17.0 // indirect
+	go.opentelemetry.io/contrib/propagators/jaeger v1.17.0 // indirect
+	go.opentelemetry.io/contrib/propagators/ot v1.17.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.16.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric v0.39.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.16.0 // indirect
