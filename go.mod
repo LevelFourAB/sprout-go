@@ -2,7 +2,7 @@ module github.com/levelfourab/sprout-go
 
 go 1.22
 
-toolchain go1.22.2
+toolchain go1.23.2
 
 require (
 	github.com/KimMachineGun/automemlimit v0.6.1
